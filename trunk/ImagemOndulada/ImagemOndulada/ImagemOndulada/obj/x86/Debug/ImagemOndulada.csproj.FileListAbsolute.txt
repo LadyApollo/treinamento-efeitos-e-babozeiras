@@ -1,0 +1,7 @@
+C:\Users\LadyApoLLo\Desktop\EfeitoHarden\ImagemOndulada\ImagemOndulada\ImagemOndulada\bin\x86\Debug\ImagemOndulada.exe
+C:\Users\LadyApoLLo\Desktop\EfeitoHarden\ImagemOndulada\ImagemOndulada\ImagemOndulada\bin\x86\Debug\ImagemOndulada.pdb
+C:\Users\LadyApoLLo\Desktop\EfeitoHarden\ImagemOndulada\ImagemOndulada\ImagemOndulada\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LadyApoLLo\Desktop\EfeitoHarden\ImagemOndulada\ImagemOndulada\ImagemOndulada\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\LadyApoLLo\Desktop\EfeitoHarden\ImagemOndulada\ImagemOndulada\ImagemOndulada\obj\x86\Debug\ImagemOndulada.exe
+C:\Users\LadyApoLLo\Desktop\EfeitoHarden\ImagemOndulada\ImagemOndulada\ImagemOndulada\obj\x86\Debug\ImagemOndulada.pdb
+C:\Users\LadyApoLLo\Desktop\EfeitoHarden\ImagemOndulada\ImagemOndulada\ImagemOndulada\bin\x86\Debug\Content\ct.xnb

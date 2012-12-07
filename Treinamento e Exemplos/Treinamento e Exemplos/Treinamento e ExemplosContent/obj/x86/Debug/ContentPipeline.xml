@@ -2,13 +2,13 @@
 <XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
   <Asset Type="Pipeline:BuildItemCollection">
     <Item>
-      <Source>megamilk.png</Source>
-      <Name>megamilk</Name>
+      <Source>FOGO\penis_borra.png</Source>
+      <Name>FOGO\penis_borra</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\LadyApoLLo\Desktop\treinamento-efeitos-e-babozeiras\EfeitoHarden\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\megamilk.xnb</Output>
-      <Time>2012-11-29T04:25:37.2708035-02:00</Time>
+      <Output>C:\Users\LadyApoLLo\Desktop\EfeitoHarden\Treinamento e Exemplos\Treinamento e Exemplos\Treinamento e Exemplos\bin\x86\Debug\Content\FOGO\penis_borra.xnb</Output>
+      <Time>2012-12-07T06:00:10.198922-02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -16,10 +16,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\LadyApoLLo\Desktop\treinamento-efeitos-e-babozeiras\EfeitoHarden\WindowsGame1\WindowsGame1\WindowsGame1Content\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\LadyApoLLo\Desktop\treinamento-efeitos-e-babozeiras\EfeitoHarden\WindowsGame1\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\LadyApoLLo\Desktop\treinamento-efeitos-e-babozeiras\EfeitoHarden\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\LadyApoLLo\Desktop\treinamento-efeitos-e-babozeiras\EfeitoHarden\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\LadyApoLLo\Desktop\EfeitoHarden\Treinamento e Exemplos\Treinamento e Exemplos\Treinamento e ExemplosContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\LadyApoLLo\Desktop\EfeitoHarden\Treinamento e Exemplos\Treinamento e Exemplos\Treinamento e Exemplos\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\LadyApoLLo\Desktop\EfeitoHarden\Treinamento e Exemplos\Treinamento e Exemplos\Treinamento e ExemplosContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\LadyApoLLo\Desktop\EfeitoHarden\Treinamento e Exemplos\Treinamento e Exemplos\Treinamento e Exemplos\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

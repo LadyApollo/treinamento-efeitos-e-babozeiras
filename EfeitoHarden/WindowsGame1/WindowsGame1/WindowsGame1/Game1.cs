@@ -111,7 +111,8 @@ namespace WindowsGame1
             GraphicsDevice.Textures[0] = null;
 
             textura.SetData<Color>(data1D);
-           
+
+            //Console.WriteLine(gameTime.ElapsedGameTime);
 
             /*
             Color[,] data2D = new Color[textura.Width, textura.Height];

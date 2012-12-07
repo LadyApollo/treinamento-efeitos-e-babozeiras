@@ -1,0 +1,7 @@
+C:\Users\LadyApoLLo\Desktop\EfeitoHarden\Treinamento e Exemplos\Treinamento e Exemplos\Treinamento e Exemplos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LadyApoLLo\Desktop\EfeitoHarden\Treinamento e Exemplos\Treinamento e Exemplos\Treinamento e Exemplos\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\LadyApoLLo\Desktop\EfeitoHarden\Treinamento e Exemplos\Treinamento e Exemplos\Treinamento e Exemplos\bin\x86\Debug\Treinamento e Exemplos.exe
+C:\Users\LadyApoLLo\Desktop\EfeitoHarden\Treinamento e Exemplos\Treinamento e Exemplos\Treinamento e Exemplos\bin\x86\Debug\Treinamento e Exemplos.pdb
+C:\Users\LadyApoLLo\Desktop\EfeitoHarden\Treinamento e Exemplos\Treinamento e Exemplos\Treinamento e Exemplos\obj\x86\Debug\Treinamento e Exemplos.exe
+C:\Users\LadyApoLLo\Desktop\EfeitoHarden\Treinamento e Exemplos\Treinamento e Exemplos\Treinamento e Exemplos\obj\x86\Debug\Treinamento e Exemplos.pdb
+C:\Users\LadyApoLLo\Desktop\EfeitoHarden\Treinamento e Exemplos\Treinamento e Exemplos\Treinamento e Exemplos\bin\x86\Debug\Content\FOGO\penis_borra.xnb

@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treinamento e Exemplos", "Treinamento e Exemplos\Treinamento e Exemplos\Treinamento e Exemplos.csproj", "{FFF7E0D5-FD22-44CB-98DA-51E2380E8880}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Treinamento e ExemplosContent", "Treinamento e Exemplos\Treinamento e ExemplosContent\Treinamento e ExemplosContent.contentproj", "{D98FD529-B0D3-4CC0-A07A-EF2F01F5F704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFF7E0D5-FD22-44CB-98DA-51E2380E8880}.Debug|x86.ActiveCfg = Debug|x86
+		{FFF7E0D5-FD22-44CB-98DA-51E2380E8880}.Debug|x86.Build.0 = Debug|x86
+		{FFF7E0D5-FD22-44CB-98DA-51E2380E8880}.Release|x86.ActiveCfg = Release|x86
+		{FFF7E0D5-FD22-44CB-98DA-51E2380E8880}.Release|x86.Build.0 = Release|x86
+		{D98FD529-B0D3-4CC0-A07A-EF2F01F5F704}.Debug|x86.ActiveCfg = Debug|x86
+		{D98FD529-B0D3-4CC0-A07A-EF2F01F5F704}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

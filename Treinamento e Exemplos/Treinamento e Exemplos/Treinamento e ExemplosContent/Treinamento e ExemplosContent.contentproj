@@ -41,7 +41,13 @@
       <Private>False</Private>
     </Reference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Compile Include="PIXELATE\pone.jpg">
+      <Name>pone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
   <ItemGroup>
     <Compile Include="FOGO\penis_borra.png">
       <Name>penis_borra</Name>

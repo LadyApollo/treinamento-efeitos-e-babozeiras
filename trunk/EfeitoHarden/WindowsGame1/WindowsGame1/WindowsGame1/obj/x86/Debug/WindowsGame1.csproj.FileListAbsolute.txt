@@ -5,3 +5,10 @@ C:\Users\LadyApoLLo\Desktop\EfeitoHarden\WindowsGame1\WindowsGame1\WindowsGame1\
 C:\Users\LadyApoLLo\Desktop\EfeitoHarden\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\LadyApoLLo\Desktop\EfeitoHarden\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
 C:\Users\LadyApoLLo\Desktop\EfeitoHarden\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\LadyApoLLo\Desktop\treinamento-efeitos-e-babozeiras\EfeitoHarden\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\megamilk.xnb
+C:\Users\LadyApoLLo\Desktop\treinamento-efeitos-e-babozeiras\EfeitoHarden\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\LadyApoLLo\Desktop\treinamento-efeitos-e-babozeiras\EfeitoHarden\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\LadyApoLLo\Desktop\treinamento-efeitos-e-babozeiras\EfeitoHarden\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LadyApoLLo\Desktop\treinamento-efeitos-e-babozeiras\EfeitoHarden\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\LadyApoLLo\Desktop\treinamento-efeitos-e-babozeiras\EfeitoHarden\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\LadyApoLLo\Desktop\treinamento-efeitos-e-babozeiras\EfeitoHarden\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb

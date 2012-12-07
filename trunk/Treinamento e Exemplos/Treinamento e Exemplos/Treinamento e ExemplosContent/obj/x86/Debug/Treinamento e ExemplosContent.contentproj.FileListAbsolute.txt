@@ -1,1 +1,2 @@
 C:\Users\LadyApoLLo\Desktop\EfeitoHarden\Treinamento e Exemplos\Treinamento e Exemplos\Treinamento e ExemplosContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sandrinho\Desktop\treinamento-efeitos-e-babozeiras\Treinamento e Exemplos\Treinamento e Exemplos\Treinamento e ExemplosContent\obj\x86\Debug\ResolveAssemblyReference.cache

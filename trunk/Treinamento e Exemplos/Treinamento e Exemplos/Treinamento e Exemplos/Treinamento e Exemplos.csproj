@@ -119,6 +119,7 @@
     <Compile Include="Scenes\FOGO\FireSource.cs" />
     <Compile Include="Scenes\FOGO\SceneFogo.cs" />
     <Compile Include="Scenes\FOGO\FireParticle.cs" />
+    <Compile Include="Scenes\PIXELATE\ScenePixelate.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Game.ico" />

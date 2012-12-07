@@ -40,7 +40,7 @@ namespace Treinamento_e_Exemplos.Scenes.FOGO
                 fireParticles[i].Update(gameTime);
 
                 float posSoma = 0;
-                int numSomados = 0;
+                float numSomados = 0;
                 float posMedia = 0;
 
                 for (int o = 0; o < fireParticles.Count; o++)
@@ -61,8 +61,10 @@ namespace Treinamento_e_Exemplos.Scenes.FOGO
                 {
                     posMedia = posSoma / numSomados;
                     fireParticles[i].x = MathHelper.Lerp(fireParticles[i].x, posMedia, 0.05f);
-
                 }
+
+
+                
 
                 
                 if (fireParticles[i].alpha < 0.12f)

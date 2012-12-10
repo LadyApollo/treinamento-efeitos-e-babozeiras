@@ -1,0 +1,2 @@
+Content\background.xnb
+Content\Blur.xnb

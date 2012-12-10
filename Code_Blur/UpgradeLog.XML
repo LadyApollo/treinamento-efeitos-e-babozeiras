@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Code_Blur">
+</Property><Property Name="Solution File" Value="C:\Users\LadyApoLLo\Desktop\Code_Blur\Code_Blur.sln">
+</Property><Property Name="User Options File" Value="C:\Users\LadyApoLLo\Desktop\Code_Blur\Code_Blur.suo">
+</Property><Property Name="Date" Value="9 de dezembro de 2012">
+</Property><Property Name="Time" Value="15:32">
+</Property><Property Name="Solution" Value="Code_Blur">
+</Property><Property Name="Solution File" Value="C:\Users\LadyApoLLo\Desktop\Code_Blur\Code_Blur.sln">
+</Property><Property Name="Date" Value="9 de dezembro de 2012">
+</Property><Property Name="Time" Value="15:32:52">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Code_Blur.sln" Description="File successfully backed up as C:\Users\LadyApoLLo\Desktop\Code_Blur\Backup\Code_Blur.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Code_Blur.suo" Description="File successfully backed up as C:\Users\LadyApoLLo\Desktop\Code_Blur\Backup\Code_Blur.suo">
+</Event><Event ErrorLevel="0" Project="Code_Blur" Source="Code_Blur\Code_Blur.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Code_Blur" Source="Code_Blur\Code_Blur.csproj" Description="Project file successfully backed up as C:\Users\LadyApoLLo\Desktop\Code_Blur\Backup\Code_Blur\Code_Blur.csproj">
+</Event><Event ErrorLevel="0" Project="Code_Blur" Source="Code_Blur\Code_Blur.csproj.user" Description="Project user file successfully backed up as C:\Users\LadyApoLLo\Desktop\Code_Blur\Backup\Code_Blur\Code_Blur.csproj.user">
+</Event><Event ErrorLevel="0" Project="Code_Blur" Source="Code_Blur\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\LadyApoLLo\Desktop\Code_Blur\Backup\Code_Blur\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Code_Blur" Source="Code_Blur\Program.cs" Description="File successfully backed up as C:\Users\LadyApoLLo\Desktop\Code_Blur\Backup\Code_Blur\Program.cs">
+</Event><Event ErrorLevel="0" Project="Code_Blur" Source="Code_Blur\Game1.cs" Description="File successfully backed up as C:\Users\LadyApoLLo\Desktop\Code_Blur\Backup\Code_Blur\Game1.cs">
+</Event><Event ErrorLevel="0" Project="Code_Blur" Source="Code_Blur\Game.ico" Description="File successfully backed up as C:\Users\LadyApoLLo\Desktop\Code_Blur\Backup\Code_Blur\Game.ico">
+</Event><Event ErrorLevel="0" Project="Code_Blur" Source="Code_Blur\GameThumbnail.png" Description="File successfully backed up as C:\Users\LadyApoLLo\Desktop\Code_Blur\Backup\Code_Blur\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="Code_Blur" Source="Code_Blur\Code_Blur.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Code_Blur" Source="Code_Blur\Code_Blur.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Code_Blur.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Code_Blur.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Code_Blur" Source="Code_Blur\Code_Blur.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Code_Blur" Source="Code_Blur\Code_Blur.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="background.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Blur.fx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Code_BlurContent" Source="Code_Blur\Content\Code_BlurContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

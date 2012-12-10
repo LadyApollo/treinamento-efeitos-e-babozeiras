@@ -1,0 +1,16 @@
+d:\devTutsProjects\HLSL\Usando_PixelShader_SpriteBatch\Source\Code_Blur\Code_Blur\bin\x86\Debug\Content\background.xnb
+d:\devTutsProjects\HLSL\Usando_PixelShader_SpriteBatch\Source\Code_Blur\Code_Blur\bin\x86\Debug\Content\Blur.xnb
+d:\devTutsProjects\HLSL\Usando_PixelShader_SpriteBatch\Source\Code_Blur\Code_Blur\bin\x86\Debug\Code_Blur.exe
+d:\devTutsProjects\HLSL\Usando_PixelShader_SpriteBatch\Source\Code_Blur\Code_Blur\bin\x86\Debug\Code_Blur.pdb
+d:\devTutsProjects\HLSL\Usando_PixelShader_SpriteBatch\Source\Code_Blur\Code_Blur\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\devTutsProjects\HLSL\Usando_PixelShader_SpriteBatch\Source\Code_Blur\Code_Blur\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+d:\devTutsProjects\HLSL\Usando_PixelShader_SpriteBatch\Source\Code_Blur\Code_Blur\obj\x86\Debug\Code_Blur.exe
+d:\devTutsProjects\HLSL\Usando_PixelShader_SpriteBatch\Source\Code_Blur\Code_Blur\obj\x86\Debug\Code_Blur.pdb
+C:\Users\LadyApoLLo\Desktop\Code_Blur\Code_Blur\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LadyApoLLo\Desktop\Code_Blur\Code_Blur\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\LadyApoLLo\Desktop\Code_Blur\Code_Blur\obj\x86\Debug\Code_Blur.exe
+C:\Users\LadyApoLLo\Desktop\Code_Blur\Code_Blur\bin\x86\Debug\Content\background.xnb
+C:\Users\LadyApoLLo\Desktop\Code_Blur\Code_Blur\bin\x86\Debug\Content\Blur.xnb
+C:\Users\LadyApoLLo\Desktop\Code_Blur\Code_Blur\bin\x86\Debug\Code_Blur.exe
+C:\Users\LadyApoLLo\Desktop\Code_Blur\Code_Blur\bin\x86\Debug\Code_Blur.pdb
+C:\Users\LadyApoLLo\Desktop\Code_Blur\Code_Blur\obj\x86\Debug\Code_Blur.pdb

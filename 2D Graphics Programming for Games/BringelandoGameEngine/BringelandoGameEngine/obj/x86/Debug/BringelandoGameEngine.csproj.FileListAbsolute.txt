@@ -1,0 +1,6 @@
+C:\Users\LadyApoLLo\Desktop\2D Graphics Programming for Games\BringelandoGameEngine\BringelandoGameEngine\bin\x86\Debug\BringelandoGameEngine.dll
+C:\Users\LadyApoLLo\Desktop\2D Graphics Programming for Games\BringelandoGameEngine\BringelandoGameEngine\bin\x86\Debug\BringelandoGameEngine.pdb
+C:\Users\LadyApoLLo\Desktop\2D Graphics Programming for Games\BringelandoGameEngine\BringelandoGameEngine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LadyApoLLo\Desktop\2D Graphics Programming for Games\BringelandoGameEngine\BringelandoGameEngine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\LadyApoLLo\Desktop\2D Graphics Programming for Games\BringelandoGameEngine\BringelandoGameEngine\obj\x86\Debug\BringelandoGameEngine.dll
+C:\Users\LadyApoLLo\Desktop\2D Graphics Programming for Games\BringelandoGameEngine\BringelandoGameEngine\obj\x86\Debug\BringelandoGameEngine.pdb

@@ -14,3 +14,11 @@ C:\Users\LadyApoLLo\Desktop\Code_Blur\Code_Blur\bin\x86\Debug\Content\Blur.xnb
 C:\Users\LadyApoLLo\Desktop\Code_Blur\Code_Blur\bin\x86\Debug\Code_Blur.exe
 C:\Users\LadyApoLLo\Desktop\Code_Blur\Code_Blur\bin\x86\Debug\Code_Blur.pdb
 C:\Users\LadyApoLLo\Desktop\Code_Blur\Code_Blur\obj\x86\Debug\Code_Blur.pdb
+C:\Users\LadyApoLLo\Desktop\treinamento-efeitos-e-babozeiras\Code_Blur\Code_Blur\bin\x86\Debug\Content\Blur.xnb
+C:\Users\LadyApoLLo\Desktop\treinamento-efeitos-e-babozeiras\Code_Blur\Code_Blur\bin\x86\Debug\Content\background.xnb
+C:\Users\LadyApoLLo\Desktop\treinamento-efeitos-e-babozeiras\Code_Blur\Code_Blur\bin\x86\Debug\Code_Blur.exe
+C:\Users\LadyApoLLo\Desktop\treinamento-efeitos-e-babozeiras\Code_Blur\Code_Blur\bin\x86\Debug\Code_Blur.pdb
+C:\Users\LadyApoLLo\Desktop\treinamento-efeitos-e-babozeiras\Code_Blur\Code_Blur\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LadyApoLLo\Desktop\treinamento-efeitos-e-babozeiras\Code_Blur\Code_Blur\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\LadyApoLLo\Desktop\treinamento-efeitos-e-babozeiras\Code_Blur\Code_Blur\obj\x86\Debug\Code_Blur.exe
+C:\Users\LadyApoLLo\Desktop\treinamento-efeitos-e-babozeiras\Code_Blur\Code_Blur\obj\x86\Debug\Code_Blur.pdb

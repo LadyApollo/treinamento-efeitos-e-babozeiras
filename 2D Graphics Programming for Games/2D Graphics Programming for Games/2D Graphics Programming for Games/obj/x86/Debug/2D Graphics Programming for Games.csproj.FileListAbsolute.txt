@@ -1,0 +1,8 @@
+C:\Users\LadyApoLLo\Desktop\2D Graphics Programming for Games\2D Graphics Programming for Games\2D Graphics Programming for Games\bin\x86\Debug\2D Graphics Programming for Games.exe
+C:\Users\LadyApoLLo\Desktop\2D Graphics Programming for Games\2D Graphics Programming for Games\2D Graphics Programming for Games\bin\x86\Debug\2D Graphics Programming for Games.pdb
+C:\Users\LadyApoLLo\Desktop\2D Graphics Programming for Games\2D Graphics Programming for Games\2D Graphics Programming for Games\bin\x86\Debug\BringelandoGameEngine.dll
+C:\Users\LadyApoLLo\Desktop\2D Graphics Programming for Games\2D Graphics Programming for Games\2D Graphics Programming for Games\bin\x86\Debug\BringelandoGameEngine.pdb
+C:\Users\LadyApoLLo\Desktop\2D Graphics Programming for Games\2D Graphics Programming for Games\2D Graphics Programming for Games\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LadyApoLLo\Desktop\2D Graphics Programming for Games\2D Graphics Programming for Games\2D Graphics Programming for Games\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\LadyApoLLo\Desktop\2D Graphics Programming for Games\2D Graphics Programming for Games\2D Graphics Programming for Games\obj\x86\Debug\2D Graphics Programming for Games.exe
+C:\Users\LadyApoLLo\Desktop\2D Graphics Programming for Games\2D Graphics Programming for Games\2D Graphics Programming for Games\obj\x86\Debug\2D Graphics Programming for Games.pdb

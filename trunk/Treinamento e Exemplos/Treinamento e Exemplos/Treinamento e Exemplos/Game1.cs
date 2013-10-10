@@ -10,6 +10,7 @@ using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 using Treinamento_e_Exemplos.SceneManagement;
 using Treinamento_e_Exemplos.Scenes;
+using Treinamento_e_Exemplos.Scenes.SHADER2D;
 
 namespace Treinamento_e_Exemplos
 {
@@ -29,6 +30,7 @@ namespace Treinamento_e_Exemplos
             Content.RootDirectory = "Content";
             IsMouseVisible = true;
             Self = this;
+            
         }
 
 
@@ -38,7 +40,7 @@ namespace Treinamento_e_Exemplos
         {
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            SceneManager.setScene(new Fogo(), false);
+            SceneManager.setScene(new SceneShader2D(), false);
         }
 
 

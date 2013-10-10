@@ -29,6 +29,9 @@ namespace Treinamento_e_Exemplos.Scenes.FOGO
         {
             this.y += Velocity.Y;
             this.x += Velocity.X;
+            ScaleX = MathHelper.Lerp(ScaleX, 0.2f, 0.02f);
+            ScaleY = MathHelper.Lerp(ScaleY, 0.3f, 0.02f);
+            color = Color.Lerp(color, Color.Lerp(Color.Lerp(Color.Yellow, Color.Red, 0.4f), Color.White, 0.4f), 0.03f);
 
             this.alpha -= 0.01f;
             base.Update(gameTime);

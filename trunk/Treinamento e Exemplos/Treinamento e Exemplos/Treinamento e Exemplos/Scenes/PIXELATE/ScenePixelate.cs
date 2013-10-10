@@ -6,6 +6,7 @@ using Treinamento_e_Exemplos.SceneManagement;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using System.Xml;
 
 namespace Treinamento_e_Exemplos.Scenes.PIXELATE
 {

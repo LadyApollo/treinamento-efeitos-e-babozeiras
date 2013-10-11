@@ -5,6 +5,7 @@ using System.Text;
 using BringelandoGameEngine.Core.SceneManagement;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework;
+using BringelandoGameEngine.Core;
 
 namespace _2D_Graphics_Programming_for_Games.Challenges._12bit_Depth_Rainbow
 {
@@ -14,7 +15,9 @@ namespace _2D_Graphics_Programming_for_Games.Challenges._12bit_Depth_Rainbow
         int textureSize;
 
         Texture2D texture;
-        
+        Color backgroundColor;
+
+        float contadorRandomico1, contadorRandomico2;
 
         public override void  start()
         {
@@ -37,6 +40,9 @@ namespace _2D_Graphics_Programming_for_Games.Challenges._12bit_Depth_Rainbow
             }
 
 
+            backgroundColor = new Color(128, 0, 128);
+            //Console.WriteLine(backgroundColor.getHSL());
+            
 
             Color[] colourArray = coloursList.ToArray();
 
@@ -44,18 +50,20 @@ namespace _2D_Graphics_Programming_for_Games.Challenges._12bit_Depth_Rainbow
             texture.SetData<Color>(colourArray);
                 
             
+            
         }
 
         public override void update(Microsoft.Xna.Framework.GameTime gameTime)
         {
- 	        
+            ColorExtensions.setHSL(ref backgroundColor, new Vector3(ColorExtensions.getHSL(backgroundColor).X + 1, 0.9f, 0.4f));
+
         }
 
         public override void  draw(Microsoft.Xna.Framework.Graphics.SpriteBatch spriteBatch)
         {
-            Game1.self.GraphicsDevice.Clear(Color.Black);
+            Game1.self.GraphicsDevice.Clear(backgroundColor);
             spriteBatch.Begin(SpriteSortMode.Deferred, BlendState.AlphaBlend, SamplerState.PointWrap, DepthStencilState.Default, RasterizerState.CullNone);
-            spriteBatch.Draw(texture, Game1.self.GraphicsDevice.Viewport.Bounds, Color.White);
+            spriteBatch.Draw(texture, Game1.self.GraphicsDevice.Viewport.Bounds, backgroundColor);
             spriteBatch.End();
         }
 

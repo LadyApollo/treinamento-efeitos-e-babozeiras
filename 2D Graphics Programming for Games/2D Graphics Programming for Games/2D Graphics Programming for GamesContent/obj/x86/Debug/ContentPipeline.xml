@@ -7,15 +7,15 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\LadyApoLLo\Desktop\2D Graphics Programming for Games\2D Graphics Programming for Games\2D Graphics Programming for GamesContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\LadyApoLLo\Desktop\2D Graphics Programming for Games\2D Graphics Programming for Games\2D Graphics Programming for Games\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\LadyApoLLo\Desktop\2D Graphics Programming for Games\2D Graphics Programming for Games\2D Graphics Programming for GamesContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\LadyApoLLo\Desktop\2D Graphics Programming for Games\2D Graphics Programming for Games\2D Graphics Programming for Games\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Bringel\Desktop\treinamento-efeitos-e-babozeiras\2D Graphics Programming for Games\2D Graphics Programming for Games\2D Graphics Programming for GamesContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Bringel\Desktop\treinamento-efeitos-e-babozeiras\2D Graphics Programming for Games\2D Graphics Programming for Games\2D Graphics Programming for Games\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Bringel\Desktop\treinamento-efeitos-e-babozeiras\2D Graphics Programming for Games\2D Graphics Programming for Games\2D Graphics Programming for GamesContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Bringel\Desktop\treinamento-efeitos-e-babozeiras\2D Graphics Programming for Games\2D Graphics Programming for Games\2D Graphics Programming for Games\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2011-05-12T22:56:52.8871455-03:00</Value>
+        <Value>2012-12-06T14:24:59.0096173-02:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

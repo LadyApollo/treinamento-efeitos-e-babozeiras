@@ -1,1 +1,2 @@
 C:\Users\LadyApoLLo\Desktop\2D Graphics Programming for Games\2D Graphics Programming for Games\2D Graphics Programming for GamesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bringel\Desktop\treinamento-efeitos-e-babozeiras\2D Graphics Programming for Games\2D Graphics Programming for Games\2D Graphics Programming for GamesContent\obj\x86\Debug\ResolveAssemblyReference.cache

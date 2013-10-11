@@ -10,6 +10,7 @@ using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 using BringelandoGameEngine.Core.SceneManagement;
 using _2D_Graphics_Programming_for_Games.Challenges.Shades_of_Gray;
+using BringelandoGameEngine.Core;
 
 namespace _2D_Graphics_Programming_for_Games
 {
@@ -27,6 +28,7 @@ namespace _2D_Graphics_Programming_for_Games
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
+
 
             self = this;
         }
@@ -57,6 +59,8 @@ namespace _2D_Graphics_Programming_for_Games
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             SceneManager.draw(spriteBatch);
+
+            
 
             base.Draw(gameTime);
         }

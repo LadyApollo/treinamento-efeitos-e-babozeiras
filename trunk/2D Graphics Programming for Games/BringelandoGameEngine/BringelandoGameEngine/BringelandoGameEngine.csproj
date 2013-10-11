@@ -95,6 +95,7 @@
     <Compile Include="Core\Camera2D.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Core\ColorExtensions.cs" />
     <Compile Include="Core\VertexTexture.cs" />
     <Compile Include="Objects\AnimatedObject.cs" />
     <Compile Include="Core\Controller.cs">

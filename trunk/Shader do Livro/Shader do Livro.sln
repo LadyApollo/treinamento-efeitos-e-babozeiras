@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shader do Livro", "Shader do Livro\Shader do Livro\Shader do Livro.csproj", "{639C3811-CCBF-444C-884B-C43537478E3D}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Shader do LivroContent", "Shader do Livro\Shader do LivroContent\Shader do LivroContent.contentproj", "{54A5A48A-EE88-44E6-A072-4D3EA255E2C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BringelandoGameEngine", "BringelandoGameEngine\BringelandoGameEngine.csproj", "{BD4C06AD-616F-45FE-B07A-7900958250E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{639C3811-CCBF-444C-884B-C43537478E3D}.Debug|x86.ActiveCfg = Debug|x86
+		{639C3811-CCBF-444C-884B-C43537478E3D}.Debug|x86.Build.0 = Debug|x86
+		{639C3811-CCBF-444C-884B-C43537478E3D}.Release|x86.ActiveCfg = Release|x86
+		{639C3811-CCBF-444C-884B-C43537478E3D}.Release|x86.Build.0 = Release|x86
+		{54A5A48A-EE88-44E6-A072-4D3EA255E2C4}.Debug|x86.ActiveCfg = Debug|x86
+		{54A5A48A-EE88-44E6-A072-4D3EA255E2C4}.Release|x86.ActiveCfg = Release|x86
+		{BD4C06AD-616F-45FE-B07A-7900958250E1}.Debug|x86.ActiveCfg = Debug|x86
+		{BD4C06AD-616F-45FE-B07A-7900958250E1}.Debug|x86.Build.0 = Debug|x86
+		{BD4C06AD-616F-45FE-B07A-7900958250E1}.Release|x86.ActiveCfg = Release|x86
+		{BD4C06AD-616F-45FE-B07A-7900958250E1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

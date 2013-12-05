@@ -56,7 +56,7 @@ namespace WindowsGame1
 
 
 
-            microphoneSoundEffect = new DynamicSoundEffectInstance(mic.SampleRate, AudioChannels.Mono);
+            microphoneSoundEffect = new DynamicSoundEffectInstance(22050, AudioChannels.Mono);
 
             mic.BufferDuration = TimeSpan.FromMilliseconds(100);
             buffer = new byte[mic.GetSampleSizeInBytes(mic.BufferDuration)];
@@ -71,12 +71,11 @@ namespace WindowsGame1
             mic.GetData(buffer);
 
 
-            DynamicSoundEffectInstance microphoneSoundEffect = new DynamicSoundEffectInstance(mic.SampleRate, AudioChannels.Mono);
-
-
+            //DynamicSoundEffectInstance microphoneSoundEffect = new DynamicSoundEffectInstance(22050, AudioChannels.Mono);
+           
 
             microphoneSoundEffect.SubmitBuffer(buffer);
-            microphoneSoundEffect.Pitch = -0.5f;
+        
             microphoneSoundEffect.Play();
             
    

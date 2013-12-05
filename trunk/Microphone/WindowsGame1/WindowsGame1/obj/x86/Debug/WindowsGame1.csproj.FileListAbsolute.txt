@@ -4,3 +4,9 @@ C:\Users\LadyApoLLo\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug
 C:\Users\LadyApoLLo\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\LadyApoLLo\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
 C:\Users\LadyApoLLo\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Microphone\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Microphone\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Microphone\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Microphone\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Microphone\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Microphone\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb

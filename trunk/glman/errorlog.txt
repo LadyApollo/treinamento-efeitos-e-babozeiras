@@ -1,0 +1,6 @@
+
+Fragment shader failed to compile with the following errors:
+ERROR: 0:13: error(#172) Too many arguments constructor
+ERROR: error(#273) 1 compilation errors.  No code generated
+
+

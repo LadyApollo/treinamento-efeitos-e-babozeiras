@@ -1,0 +1,12 @@
+Perspective 70
+LookAt 0 0 3  0 0 0  0 1 0
+
+Vertex eroded.vert
+Fragment eroded.frag
+Program Eroded 
+
+
+	
+
+Color 1. .5 0.
+Teapot

@@ -7,17 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\LadyApoLLo\Desktop\Shader do Livro\Shader do Livro\Shader do Livro\bin\x86\Debug\Content\text.xnb</Output>
+      <Output>C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do Livro\bin\x86\Debug\Content\text.xnb</Output>
       <Time>2013-12-04T12:17:27.867151-02:00</Time>
-    </Item>
-    <Item>
-      <Source>blur.fx</Source>
-      <Name>blur</Name>
-      <Importer>EffectImporter</Importer>
-      <Processor>EffectProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\LadyApoLLo\Desktop\Shader do Livro\Shader do Livro\Shader do Livro\bin\x86\Debug\Content\blur.xnb</Output>
-      <Time>2013-12-04T15:51:53.6150297-02:00</Time>
     </Item>
     <Item>
       <Source>bg.png</Source>
@@ -25,8 +16,44 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\LadyApoLLo\Desktop\Shader do Livro\Shader do Livro\Shader do Livro\bin\x86\Debug\Content\bg.xnb</Output>
+      <Output>C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do Livro\bin\x86\Debug\Content\bg.xnb</Output>
       <Time>2013-12-04T14:26:46.6399274-02:00</Time>
+    </Item>
+    <Item>
+      <Source>blur.fx</Source>
+      <Name>blur</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do Livro\bin\x86\Debug\Content\blur.xnb</Output>
+      <Time>2013-12-04T15:51:53.6150297-02:00</Time>
+    </Item>
+    <Item>
+      <Source>filtro.png</Source>
+      <Name>filtro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do Livro\bin\x86\Debug\Content\filtro.xnb</Output>
+      <Time>2014-01-31T12:50:48.387346-02:00</Time>
+    </Item>
+    <Item>
+      <Source>PONY.jpg</Source>
+      <Name>PONY</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do Livro\bin\x86\Debug\Content\PONY.xnb</Output>
+      <Time>2014-01-31T12:50:48.3893461-02:00</Time>
+    </Item>
+    <Item>
+      <Source>grandientFilter.fx</Source>
+      <Name>grandientFilter</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do Livro\bin\x86\Debug\Content\grandientFilter.xnb</Output>
+      <Time>2014-01-31T13:00:29.9626102-02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -34,10 +61,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\LadyApoLLo\Desktop\Shader do Livro\Shader do Livro\Shader do LivroContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\LadyApoLLo\Desktop\Shader do Livro\Shader do Livro\Shader do Livro\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\LadyApoLLo\Desktop\Shader do Livro\Shader do Livro\Shader do LivroContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\LadyApoLLo\Desktop\Shader do Livro\Shader do Livro\Shader do Livro\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do LivroContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do Livro\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do LivroContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do Livro\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

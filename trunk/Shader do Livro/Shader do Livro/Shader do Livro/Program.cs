@@ -10,7 +10,7 @@ namespace Shader_do_Livro
         /// </summary>
         static void Main(string[] args)
         {
-            using (Game2 game = new Game2())
+            using (Game3 game = new Game3())
             {
                 game.Run();
             }

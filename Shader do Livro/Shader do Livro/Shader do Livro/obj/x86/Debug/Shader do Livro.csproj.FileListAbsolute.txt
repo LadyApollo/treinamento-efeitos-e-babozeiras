@@ -9,3 +9,17 @@ C:\Users\LadyApoLLo\Desktop\Shader do Livro\Shader do Livro\Shader do Livro\obj\
 C:\Users\LadyApoLLo\Desktop\Shader do Livro\Shader do Livro\Shader do Livro\obj\x86\Debug\Shader do Livro.pdb
 C:\Users\LadyApoLLo\Desktop\Shader do Livro\Shader do Livro\Shader do Livro\bin\x86\Debug\Content\blur.xnb
 C:\Users\LadyApoLLo\Desktop\Shader do Livro\Shader do Livro\Shader do Livro\bin\x86\Debug\Content\bg.xnb
+C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do Livro\bin\x86\Debug\Content\text.xnb
+C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do Livro\bin\x86\Debug\Content\bg.xnb
+C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do Livro\bin\x86\Debug\Content\blur.xnb
+C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do Livro\bin\x86\Debug\Shader do Livro.exe
+C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do Livro\bin\x86\Debug\Shader do Livro.pdb
+C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do Livro\bin\x86\Debug\BringelandoGameEngine.dll
+C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do Livro\bin\x86\Debug\BringelandoGameEngine.pdb
+C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do Livro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do Livro\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do Livro\obj\x86\Debug\Shader do Livro.exe
+C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do Livro\obj\x86\Debug\Shader do Livro.pdb
+C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do Livro\bin\x86\Debug\Content\filtro.xnb
+C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do Livro\bin\x86\Debug\Content\PONY.xnb
+C:\Users\LadyApoLLo\Desktop\Projetos\treinamento-efeitos-e-babozeiras\Shader do Livro\Shader do Livro\Shader do Livro\bin\x86\Debug\Content\grandientFilter.xnb

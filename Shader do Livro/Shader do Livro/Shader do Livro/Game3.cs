@@ -12,17 +12,17 @@ using BringelandoGameEngine.Objects;
 
 namespace Shader_do_Livro
 {
-    public class Game2 : Microsoft.Xna.Framework.Game
+    public class Game3 : Microsoft.Xna.Framework.Game
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
        
         Effect blurEffect;
-        EffectParameter center, backGroundTexture;
+        EffectParameter filterValue, backGroundTexture;
         Texture2D bg, pon3;
 
-        public Game2()
+        public Game3()
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
@@ -32,26 +32,27 @@ namespace Shader_do_Livro
         {
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            pon3 = Content.Load<Texture2D>("text");
-            bg = Content.Load<Texture2D>("bg");
+            pon3 = Content.Load<Texture2D>("PONY");
+            bg = Content.Load<Texture2D>("filtro");
 
-            graphics.PreferredBackBufferWidth = pon3.Width;
-            graphics.PreferredBackBufferHeight = pon3.Height;
+            graphics.PreferredBackBufferWidth = 800;
+            graphics.PreferredBackBufferHeight = 600;
             graphics.ApplyChanges();
-  
 
-            blurEffect = Content.Load<Effect>("blur");
-            center = blurEffect.Parameters["center"];
+
+            blurEffect = Content.Load<Effect>("grandientFilter");
+            filterValue = blurEffect.Parameters["filterValue"];
             backGroundTexture = blurEffect.Parameters["backgroundTexture"];
+
             IsMouseVisible = true;
         }
 
 
         protected override void Update(GameTime gameTime)
         {
-            center.SetValue(new Vector2(Mouse.GetState().X / (float)graphics.PreferredBackBufferWidth, Mouse.GetState().Y / (float)graphics.PreferredBackBufferWidth));
-            backGroundTexture.SetValue((Texture)bg);
-            
+            backGroundTexture.SetValue((Texture)pon3);
+            filterValue.SetValue(Mouse.GetState().X / 800f);
+            Console.WriteLine(Mouse.GetState().X / 800f);
 
             base.Update(gameTime);
         }
@@ -67,7 +68,7 @@ namespace Shader_do_Livro
             
             spriteBatch.Begin(SpriteSortMode.Immediate, BlendState.AlphaBlend);
             blurEffect.CurrentTechnique.Passes[0].Apply();
-            spriteBatch.Draw(pon3, Vector2.Zero, Color.White);
+            spriteBatch.Draw(bg, Vector2.Zero, Color.White);
             spriteBatch.End();
 
             base.Draw(gameTime);
